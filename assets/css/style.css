@@ -128,6 +128,15 @@ section {
     text-align: center;
 }
 
+.intro p {
+    line-height: 1.7;
+    color: #39a6b2;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+  }
+  
+
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -144,6 +153,11 @@ section {
 .secondary-border {
     border-color: #39a6b2;
  }
+
+.steps {
+    text-align: center;
+    background-color: #fce138;
+}
 
 .steps div {
     margin-bottom: 80px;
